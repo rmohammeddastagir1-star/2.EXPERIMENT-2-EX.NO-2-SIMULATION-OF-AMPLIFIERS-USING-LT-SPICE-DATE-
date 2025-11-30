@@ -1,7 +1,6 @@
-**EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
-DATE: 
+## *EX.NO:* 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
+## DATE: 30-08-2025 
 
-**  
 
 
 ## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
@@ -20,53 +19,51 @@ DATE:
 
 ---
 
-1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
-
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
-
-
+## 1.  CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 ---
-
-
----
-## OUT PUT WAVEFORM AND DISCUSSION 
-
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
-
----
-
-2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
-
-PASTE THE CIRCUIT HERE
----
+<img width="614" height="309" alt="image" src="https://github.com/user-attachments/assets/130b1919-308e-412b-a19d-ea9a5ed415d9" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
-3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+<img width="1894" height="433" alt="image" src="https://github.com/user-attachments/assets/e8d94399-243e-4c54-9761-a9c6a2e877ea" />
 
-PASTE THE CIRCUIT HERE
+
+---
+
+## 2.  CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
+---
+<img width="809" height="432" alt="image" src="https://github.com/user-attachments/assets/cc01fd1f-ce1b-4e06-81f3-956cde67b0c8" />
+
+---
+## OUTPUT WAVEFORM AND DISCUSSION 
+---
+<img width="1893" height="433" alt="image" src="https://github.com/user-attachments/assets/3828f9d3-39e4-4831-b8ab-a2c00b541b00" />
+
+---
+## 3.  CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+---
+<img width="549" height="440" alt="image" src="https://github.com/user-attachments/assets/a146be6f-100a-433f-9e82-0553d58664e4" />
+
 ---
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="1906" height="445" alt="image" src="https://github.com/user-attachments/assets/7ed566e3-6b50-4008-9339-5e7319600815" />
+
 ---
-4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
-
-PASTE THE CIRCUIT HERE
+## 4. CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 ---
+<img width="683" height="385" alt="image" src="https://github.com/user-attachments/assets/2f4408d8-4c5b-43a1-b202-21a16c878acb" />
 
 
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1899" height="437" alt="image" src="https://github.com/user-attachments/assets/64293e0f-8194-45c6-b295-0cb43cb58fa9" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 
 ## RESULT
